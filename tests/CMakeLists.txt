@@ -127,6 +127,7 @@ set(PYBIND11_TEST_FILES
     test_copy_move
     test_custom_type_casters
     test_custom_type_setup
+    test_dlpack
     test_docstring_options
     test_eigen
     test_enum
